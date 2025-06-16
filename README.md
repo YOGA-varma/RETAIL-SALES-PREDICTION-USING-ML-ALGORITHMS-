@@ -42,12 +42,7 @@ Libraries: pandas, numpy, psycopg2, warnings, streamlit-option-menu
 bash
 Copy
 Edit
- Retail Sales Forecast
-├── model/
-│   └── model1_markdown.pkl  
-├── df_sql.csv                
-├── RETAIL SALES PREDICTION CODE.py 
-├── Retail_Sales_Forecast PROJECT.ipynb  
+ 
  How to Run the App
 Ensure you have PostgreSQL installed and create a database named retail_forecast.
 
